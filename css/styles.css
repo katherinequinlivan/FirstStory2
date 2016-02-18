@@ -1,0 +1,52 @@
+
+
+@font-face {
+	font-family: barrio;
+	src: url("../fonts/barrio/Barrio-Regular.otf"); 	
+}
+
+
+body{
+	background-image: url('../images/blue.jpg');
+	background-color: #6699ff;
+	
+}
+.floatRight{
+	float:right ;
+}
+.floatLeft{
+	float:left ;
+}
+clearIt {
+	clear:both;
+}
+p{
+	font-family: 'Indie Flower', cursive;
+	color: #191970;
+	font-size: 1.4em
+
+}
+
+.transparent_b {
+
+	background: rgba(255,255,255,.5);
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+
+.picture {
+	margin-left: 25%;
+	
+}
+
+h1, h2 {
+	text-align: center;
+	font-family: 'barrio', sans-serif;
+	color: white;
+}
+h3 {
+	text-align: center;
+	font-family: 'barrio', sans-serif;
+	color: 	white;
+}
